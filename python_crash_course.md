@@ -169,4 +169,11 @@ Jupyter Notebooks: 科研和聚焦数据的问题用的多，是个网络app，�
 一般mac上都装了python，只是可能版本比较旧
 
 检查是否安装了python3
+打开终端，输入
+```
+$ python
+```
 
+![image-20220921155303930](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20220921155303930.png)
+
+按下 ctrl-D 或者 输入exit() 退出python
