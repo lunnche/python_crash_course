@@ -177,3 +177,20 @@ $ python
 ![image-20220921155303930](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20220921155303930.png)
 
 按下 ctrl-D 或者 输入exit() 退出python
+
+安装最新版python
+
+在 https://python.org/ 下载安装包
+
+安装完成，检查版本：
+```
+$ python3 --version
+```
+
+然后呢，打开终端，输入python3，就可以运行一些python代码段了
+```
+>>> print("Hello Python interpreter!")
+```
+
+设置Sublime Text使用正确的Python版本
+
